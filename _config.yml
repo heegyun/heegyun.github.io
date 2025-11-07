@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Yeom Hee Gyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am **pluse** human."
+  location         : "대전대 융합과학관 309호 "
   email            : "yeom@dju.kr"
   links:
     - label: "Email"
